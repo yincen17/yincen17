@@ -2,11 +2,11 @@
 
 ## 👤NTRODUCTION👤
 
-#### 😊I am interested in technology
+#### 😊 I am interested in technology
 
-#### 📚 I am not pro I still learn
+#### 📚  I am not pro I still learn
 
-#### 📍MY BLOG [Kumptutor.Blogspot.com](https://Kumptutor.Blogspot.com)
+#### 📍 MY BLOG [Kumptutor.Blogspot.com](https://Kumptutor.Blogspot.com)
 
 ------
 
@@ -16,7 +16,15 @@
 
 ------
 
+### What Do i Do? 
 
+### 🔗 I made an Unofficial Rom for MIA1 (Tissot ) 
+
+### 🔗 helped develop [Aone-Kangbot](https://github.com/aone-id/aone-kangbot) Telegram Userbot
+
+### 🔗 I also created a tool that can be used to help the users of A1 mi to root, install TWRP, and Etc
+
+------
 
 # MY STATS
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yincen17&theme=vue&show_icons=tr)
@@ -25,11 +33,11 @@
 # MY LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&)](https://github.com/yincen17&/github-readme-stats)
 
-## MY REPOSITORY:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yincen17&repo=github-readme-stats)](https://github.com/yincen17/github-readme-stats)
-
-
-
-
 # **🙏Thanks🙏**
+
+## MY REPOSITORY:
+
+
+
+
 
