@@ -20,9 +20,9 @@
 
 ### 🔗 I made an Unofficial Rom for MIA1 (Tissot ) 
 
-### 🔗 helped develop [Aone-Kangbot](https://github.com/aone-id/aone-kangbot) Telegram Userbot
+### 🔗 I helped develop [Aone-Kangbot](https://github.com/aone-id/aone-kangbot) Telegram Userbot
 
-### 🔗 I also created a tool that can be used to help the users of A1 mi to root, install TWRP, and Etc
+### 🔗 I also created a tool that can be used to help the users of MIA1 to root, install TWRP, and Etc
 
 ------
 
