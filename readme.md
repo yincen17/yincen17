@@ -36,7 +36,6 @@
 # **🙏Thanks🙏**
 
 ## MY REPOSITORY:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yincen17&repo=github-Aone.Id-Oprek-Tools)](https://github.com/yincen17/github-Aone.Id-Oprek-Tools)
 
 
 
