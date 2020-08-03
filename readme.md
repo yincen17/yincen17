@@ -32,7 +32,6 @@
 
 # MY LANGUAGES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&)](https://github.com/yincen17&/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&hide=c)](https://github.com/yincen17/github-readme-stats)
 # **🙏Thanks🙏**
 
 ## MY REPOSITORY:
