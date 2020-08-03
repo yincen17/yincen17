@@ -1,6 +1,6 @@
 # **💻WELCOME TO MY REPOSITORY💻**
 
-## 👤NTRODUCTION👤
+## 👤INTRODUCTION👤
 
 #### 😊 I am interested in technology
 
