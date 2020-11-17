@@ -34,7 +34,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&)](https://github.com/yincen17&/github-readme-stats)
 # **🙏Thanks🙏**
 
-## MY REPOSITORY:
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{yincen17}/count.svg)
 
