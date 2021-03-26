@@ -16,7 +16,7 @@
 
 ### What Do i Do? 
 
-### 🔗 I made an Unofficial Rom for MIA1 (Tissot ) 
+### 🔗 I made an Official Rom for MIA1 (Tissot ) 
 
 ### 🔗 I helped develop [Aone-Kangbot](https://github.com/aone-id/aone-kangbot) Telegram Userbot
 
