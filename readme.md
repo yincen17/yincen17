@@ -2,8 +2,6 @@
 
 ## 👤INTRODUCTION👤
 
-#### 😊 I am interested in technology
-
 #### 📚  I am not pro I still learn
 
 #### 📍 MY BLOG [Kumptutor.Blogspot.com](https://Kumptutor.Blogspot.com)
