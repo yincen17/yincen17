@@ -1,4 +1,7 @@
 <h1 align="center">Hi,Im Yincen </h1>
+
+![](https://komarev.com/ghpvc/?username=yincen17&color=brightgreen)
+
 <h2 align="center">Still Learn Programming </h2>
 <h2 align="center">MY BLOG</h2>
 <p align="center">
@@ -25,6 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&&langs_count=10&layout=compact)](https://github.com/yincen17&/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yincen17&theme=vue&show_icons=tr)
 [![Visitor Count](https://profile-counter.glitch.me/{yincen17}/count.svg)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyincen17%2Fhit-counter&count_bg=%23B3589A&title_bg=%2342C4D9&icon=angellist.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 
