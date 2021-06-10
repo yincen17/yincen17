@@ -1,9 +1,9 @@
-<p align="center">
-# **💻Hi,Im Yincen 💻**
-#### 📚  I am not pro I still learn
-#### 📍 MY BLOG [Kumptutor.Blogspot.com](https://Kumptutor.Blogspot.com)
-</p>
-
+<center>
+<h1>Hi,Im Yincen </h1>
+<h2>I am not pro I still learn <h2>
+<h2>📍 MY BLOG 
+<a href="https://Kumptutor.Blogspot.com">Kumptutor.Blogspot.com</a>
+</center>
 ------
 
 ### ***contact:***
@@ -32,5 +32,4 @@
 
 # Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/{yincen17}/count.svg)
-
 
