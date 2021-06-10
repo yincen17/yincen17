@@ -1,7 +1,7 @@
 <h1 align="center">Hi,Im Yincen </h1>
-<h2 align="center">I am not pro I still learn </h2>
-<p align="center">
+<h2 align="center">Still Learn Programming </h2>
 <h2 align="center">MY BLOG</h2>
+<p align="center">
 <a href="https://Kumptutor.Blogspot.com">Kumptutor.Blogspot.com</a>
 <a href="https://wiki.yinku.my.id">My Gitbook</a>
 </p>
@@ -9,8 +9,10 @@
 <p align="center">
 <a href="https://t.me/yincen">Telegram</a>
 </p>
+
 ------
-### What Do i Do? 
+
+<h2 align="center">Now I</h2>
 
 ### 🔗 I made an Official Rom for MIA1 (Tissot ) 
 
@@ -20,7 +22,8 @@
 
 ------
 
-# MY STATS
+<h2 align="center">Stats</h2>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yincen17&theme=vue&show_icons=tr)
 
 
