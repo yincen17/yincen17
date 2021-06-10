@@ -23,12 +23,9 @@
 
 ------
 
-<h2 align="center">Stats</h2>
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yincen17&theme=vue&show_icons=tr)
 
-# MY LANGUAGES
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&layout=compact)](https://github.com/yincen17&/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&&langs_count=10&layout=compact)](https://github.com/yincen17&/github-readme-stats)
 
 # Visitor Count
 [![Visitor Count](https://profile-counter.glitch.me/{yincen17}/count.svg)
