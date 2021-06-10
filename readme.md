@@ -1,13 +1,14 @@
 <h1 align="center">Hi,Im Yincen </h1>
 <h2 align="center">I am not pro I still learn </h2>
 <p align="center">
+<h2 align="center">MY BLOG</h2>
 <a href="https://Kumptutor.Blogspot.com">Kumptutor.Blogspot.com</a>
+<a href="https://wiki.yinku.my.id">My Gitbook</a>
 </p>
+<h2 align="center">Contact</h2>
 <p align="center">
-<h2>Contac </h2>
 <a href="https://t.me/yincen">Telegram</a>
 </p>
-
 ------
 ### What Do i Do? 
 
