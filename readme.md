@@ -22,8 +22,8 @@
 ### 🔗 I also created a tool that can be used to help the users of MIA1 to root, install TWRP, and Etc
 
 ------
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&&langs_count=10&layout=compact)](https://github.com/yincen17&/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yincen17&theme=vue&show_icons=tr)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yincen17&&langs_count=10&layout=compact)](https://github.com/yincen17&/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yincen17&theme=vue&show_icons=tr)
 ------
 ![Visitor Count](https://profile-counter.glitch.me/{yincen17}/count.svg)
 
