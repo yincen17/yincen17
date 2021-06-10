@@ -1,9 +1,10 @@
-<center>
-<h1>Hi,Im Yincen </h1>
-<h2>I am not pro I still learn <h2>
-<h2>📍 MY BLOG 
+<h1 align="center">Hi,Im Yincen </h1>
+<h2 align="center">I am not pro I still learn </h2>
+<h2 align="center"> >📍 MY BLOG </h2>
+<p align="center">
 <a href="https://Kumptutor.Blogspot.com">Kumptutor.Blogspot.com</a>
-</center>
+</p>
+
 ------
 
 ### ***contact:***
