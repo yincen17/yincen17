@@ -1,14 +1,12 @@
-# **💻WELCOME TO MY REPOSITORY💻**
-
-## 👤INTRODUCTION👤
-
+<p align="center">
+# **💻Hi,Im Yincen 💻**
 #### 📚  I am not pro I still learn
-
 #### 📍 MY BLOG [Kumptutor.Blogspot.com](https://Kumptutor.Blogspot.com)
+</p>
 
 ------
 
-### ***If you want to ask or tell something if I make a mistake you can contact the following contact:***
+### ***contact:***
 
 #### 👤 Telegram Contac [Yincen](https://t.me/yincen)
 
